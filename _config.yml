@@ -1,0 +1,14 @@
+layout_spectrum: 0.5396035453304648
+typography_spectrum: 0.04023526096716523
+color:
+  brandStrength: 0.3541561875026673
+  lightness: 0.1775445779785514
+  saturation: 0.0717049608938396
+  rhythmicContrast: 0.8187729648780078
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Restaurant Guide
